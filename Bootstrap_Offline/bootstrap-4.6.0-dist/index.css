@@ -1,0 +1,9 @@
+#slide{
+	width: 50%;
+	margin: auto;
+}
+
+/*code berikut digunakan jika ukuran gambar tidak seragam*/
+#slide .carousel-inner img{
+	height: 500px;
+}
