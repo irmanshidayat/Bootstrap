@@ -1,0 +1,27 @@
+body{
+	background-image: url(aset/patrick.jpg);
+	background-repeat: no-repeat;
+}
+
+@media (max-width: 600px) {
+			body{
+				display: flex;
+				flex-direction: column;
+		}
+	}
+
+/*card*/
+.skill{
+	margin: 35px;
+}
+
+/*medsos*/
+.profil .medsos a img{
+	border-radius: 10px;
+	width: 40%;
+}
+
+div span{
+	font-size: 30px;
+}
+
